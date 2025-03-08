@@ -22,3 +22,6 @@ O jogo do Amigo Secreto é uma experiência divertida e interativa! O Usuário p
 
 ▪ Ao clicar em "Sortear Amigo", um nome é escolhido aleatoriamente e exibido na tela.
 
+# 📁 Acesso ao Jogo
+
+Link de acesso ao jogo:  https://leidy-sales.github.io/amigo-secreto/
